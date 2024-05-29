@@ -1,0 +1,66 @@
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.slide-one
+{
+    height: 100vh;
+    background: linear-gradient( rgba(0,0,0,0.4), rgba(0,0,0,0.3)) , url(../img/full-2.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+.slide-two
+{
+    height: 100vh;
+    background: linear-gradient( rgba(0,0,0,0.4), rgba(0,0,0,0.3)) , url(../img/full-4.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo
+{
+    width: 6rem;
+   
+}
+.p
+{
+    color: #606060;
+}
+.ph
+{
+    color: #888888;
+}
+.third-page , .six-page
+{
+    background-color: #F8F8F9;
+}
+
+.butt:hover .icon
+{
+    margin-left: 1rem;
+
+}
+.forth-page
+{
+    height: 80vh;
+    background: linear-gradient( rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(../img/business-main.jpg);
+    background-position:  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.pg
+{
+    color: #AAAAAA;
+    font-size: 0.8rem;
+}
+.footer
+{
+    background-color: #162231;
+}
